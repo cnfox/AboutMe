@@ -1,5 +1,5 @@
 # AboutMe
-My Nsme Is cnfox
+My name is cnfox
 
 Gopher , javaer
 
@@ -8,6 +8,7 @@ Gopher , javaer
 ***
 
 Blog：www.icnfox.cn
+WeChat: hd_ldg
 
 ```
 //
